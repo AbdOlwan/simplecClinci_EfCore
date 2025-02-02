@@ -1,0 +1,15 @@
+D:\Work\dotNet\SimpleClinc-EfCore\SimplieClinic_DAL_EFCore\bin\Debug\net8.0\appsettings.json
+D:\Work\dotNet\SimpleClinc-EfCore\SimplieClinic_DAL_EFCore\bin\Debug\net8.0\SimplieClinic_DAL_EFCore.deps.json
+D:\Work\dotNet\SimpleClinc-EfCore\SimplieClinic_DAL_EFCore\bin\Debug\net8.0\SimplieClinic_DAL_EFCore.runtimeconfig.json
+D:\Work\dotNet\SimpleClinc-EfCore\SimplieClinic_DAL_EFCore\bin\Debug\net8.0\SimplieClinic_DAL_EFCore.dll
+D:\Work\dotNet\SimpleClinc-EfCore\SimplieClinic_DAL_EFCore\bin\Debug\net8.0\SimplieClinic_DAL_EFCore.pdb
+D:\Work\dotNet\SimpleClinc-EfCore\SimplieClinic_DAL_EFCore\obj\Debug\net8.0\SimplieClinic_DAL_EFCore.csproj.AssemblyReference.cache
+D:\Work\dotNet\SimpleClinc-EfCore\SimplieClinic_DAL_EFCore\obj\Debug\net8.0\SimplieClinic_DAL_EFCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\dotNet\SimpleClinc-EfCore\SimplieClinic_DAL_EFCore\obj\Debug\net8.0\SimplieClinic_DAL_EFCore.AssemblyInfoInputs.cache
+D:\Work\dotNet\SimpleClinc-EfCore\SimplieClinic_DAL_EFCore\obj\Debug\net8.0\SimplieClinic_DAL_EFCore.AssemblyInfo.cs
+D:\Work\dotNet\SimpleClinc-EfCore\SimplieClinic_DAL_EFCore\obj\Debug\net8.0\SimplieClinic_DAL_EFCore.csproj.CoreCompileInputs.cache
+D:\Work\dotNet\SimpleClinc-EfCore\SimplieClinic_DAL_EFCore\obj\Debug\net8.0\SimplieClinic_DAL_EFCore.dll
+D:\Work\dotNet\SimpleClinc-EfCore\SimplieClinic_DAL_EFCore\obj\Debug\net8.0\refint\SimplieClinic_DAL_EFCore.dll
+D:\Work\dotNet\SimpleClinc-EfCore\SimplieClinic_DAL_EFCore\obj\Debug\net8.0\SimplieClinic_DAL_EFCore.pdb
+D:\Work\dotNet\SimpleClinc-EfCore\SimplieClinic_DAL_EFCore\obj\Debug\net8.0\SimplieClinic_DAL_EFCore.genruntimeconfig.cache
+D:\Work\dotNet\SimpleClinc-EfCore\SimplieClinic_DAL_EFCore\obj\Debug\net8.0\ref\SimplieClinic_DAL_EFCore.dll
